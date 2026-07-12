@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
-
+//testingggg for pushing code
 const MIN_PAY = 45000;
 const MAX_PAY = 200000;
 
